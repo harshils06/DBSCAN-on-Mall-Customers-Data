@@ -1,1 +1,2 @@
 # DBSCAN-on-Mall-Customers-Data
+Hence, I have successfully used DBSCAN algorithm to classify the data points using clusters. The above graph shows different clusters which are made. From this, we can infer that DBSCAN works better when the data points are scattered and distributed unevenly. Two parameters are required for DBSCAN clustering 1) min_pts 2) eplison, these can be obtained by plotting a heatplot and analyzing the number of clusters made using different parameter combinations.
